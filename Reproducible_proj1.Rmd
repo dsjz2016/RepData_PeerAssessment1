@@ -1,9 +1,8 @@
 ---
-title: Reproducible Research 
+title: "Reproducible Research: Peer Assessment 1" 
 output:
   html_document:
-  md_document:
-    variant: markdown_github
+   keep_md: true
 ---
 
 Week 2 Course Project 1
